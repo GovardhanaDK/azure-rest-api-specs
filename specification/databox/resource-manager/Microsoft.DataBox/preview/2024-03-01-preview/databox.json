@@ -3909,11 +3909,11 @@
                 "description": "Active Order limit breached."
               },
               {
-                "value": "ActiveOrderLimitBreachedDelay",
+                "value": "HighDemandDelay",
                 "description": "High demand"
               },
               {
-                "value": "ActiveOrderLimitBreachedDelay",
+                "value": "LargeNumberOfFilesDelay",
                 "description": "Slow copy due to large number of files"
               }
             ]
