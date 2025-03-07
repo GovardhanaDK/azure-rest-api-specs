@@ -6039,7 +6039,8 @@
       "description": "Shipping address where customer wishes to receive the device.",
       "required": [
         "streetAddress1",
-        "country"
+        "country",
+        "postalCode"
       ],
       "type": "object",
       "properties": {
